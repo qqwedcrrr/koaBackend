@@ -1,0 +1,16 @@
+{
+  "name": "vue-project-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "zitao",
+  "license": "MIT",
+  "dependencies": {
+    "apicache": "^1.2.3",
+    "koa": "^2.5.2",
+    "koa-router": "^7.4.0"
+  }
+}
